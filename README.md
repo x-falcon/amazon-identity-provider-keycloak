@@ -1,2 +1,2 @@
-# Amazon Identity Provider for Keycloak
+# Amazon Identity Provider For Keycloak
 
